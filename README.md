@@ -3,7 +3,7 @@
 
 # 汉化后下载地址
 ## 微云下载地址
-[点击打开下载地址](https://share.weiyun.com/4AjDthh2)懒人包
+[点击打开下载地址](https://share.weiyun.com/4AjDthh2)来下载懒人包
 
 密码：35756d
 
