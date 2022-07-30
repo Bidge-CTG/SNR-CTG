@@ -1,5 +1,7 @@
 # SuperNewRoles 1418汉化
-全称 SuperNewRoles v1418 被 两个少年汉化组汉化成功。
+全称 SuperNewRoles v1418 
+
+由两个少年汉化组汉化成功（也叫->chara汉化组）。
 
 # SuperNewRoles简介
 
