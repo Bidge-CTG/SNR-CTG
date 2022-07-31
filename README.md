@@ -1,3 +1,4 @@
+[English](https://github.com/Bidge-CTG/SNR-CTG#supernewroles-1418-localization)
 # SuperNewRoles 1418汉化
 全称 SuperNewRoles v1418 
 
