@@ -15,3 +15,15 @@
 
 密码：35756d
 
+
+# SuperNewRoles 1418 localization 
+The full name of SuperNewRoles v1418 
+
+Successfully sinicized by two juvenile Sinicization groups (also known as -& GT; Chara Chinese group). 
+
+# SuperNewRoles profile 
+ Original author: Ykundesu 
+[Click the original link to open it ](https://github.com/ykundesu/SuperNewRoles)
+
+# After Chinese download address 
+Foreign countries temporarily do not support
